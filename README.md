@@ -22,10 +22,10 @@ The system has two distinct interfaces: a **public customer portal** where users
 ## Screenshots
 
 ### Customer Portal
-![Customer Portal](screenshots/customer-portal.png)
+![Customer Portal](https://github.com/user-attachments/assets/4aa9acd1-d418-4e8f-ae12-be73c49ac9c3)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](https://github.com/user-attachments/assets/6cee4cca-ba8a-438f-8eba-0b2eb0c9a2b7)
 
 ---
 
