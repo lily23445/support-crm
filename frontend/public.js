@@ -1,5 +1,4 @@
-const API = "https://support-crm-production-cb3b.up.railway.app";
-
+const API = "https://support-crm-production-cb3b.up.railway.app/api";
 /* -------------------------------------------------- */
 /*  STATE                                              */
 /* -------------------------------------------------- */
