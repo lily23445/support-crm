@@ -274,6 +274,15 @@ For the frontend, deploy the `frontend/` folder as a separate Railway static sit
 
 ---
 
+## Known Limitations
+
+- **Data persistence:** The app uses SQLite with Railway's ephemeral filesystem,
+  meaning data resets on each redeploy. For production use, this would be migrated
+  to PostgreSQL with a persistent volume. SQLite was used as specified in the
+  project requirements.
+
+---
+
 ## Future Improvements
 
 - User authentication and role-based access control
@@ -282,7 +291,7 @@ For the frontend, deploy the `frontend/` folder as a separate Railway static sit
 - File attachment support
 - Pagination for large ticket volumes
 - JWT-based authentication
-
+- PostgreSQL migration for persistent production storage
 ---
 
 ## License
